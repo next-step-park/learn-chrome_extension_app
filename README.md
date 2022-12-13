@@ -2,7 +2,7 @@
 
 皆さん Chrome 拡張機能って使ったことありますか？普段[React Developer Tool]といった拡張機能を使ったことがあるんですけど、とっさ「Chrome 拡張機能ってどうやって作るんだ？」と思い、簡単なアプリケーションを作ってみました。
 
-# 「Chrome Extension Application Example」はどんなアプリケーション？
+# 「Chrome Extension App」はどんなアプリケーション？
 
 **簡単に言うと会議室を予約するアプリケーションですね。**このアプリケーションは Web Page から選択された会議室を Backend Server に HTTP Request を投げ、DB に会議室予約情報を更新させることが主な機能となります。
 
