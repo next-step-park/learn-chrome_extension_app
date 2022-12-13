@@ -45,4 +45,4 @@
 
 ## 参考資料
 
-(はじめての Chrome 拡張 最小構成ハンズオン)[https://qiita.com/punkshiraishi/items/5eca74202f6445025650]
+[はじめての Chrome 拡張 最小構成ハンズオン](https://qiita.com/punkshiraishi/items/5eca74202f6445025650)
