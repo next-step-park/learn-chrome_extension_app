@@ -24,7 +24,7 @@ app.get('/update', (req, res) => {
 
 app.get('/false', (req, res) => {
 
-    const query = `UPDATE meeting_room SET booked = false'`;
+    const query = `UPDATE meeting_room SET booked = 'false'`;
     console.log(query);
     client.query(query, (err, res) => {
         console.log(err, res);
